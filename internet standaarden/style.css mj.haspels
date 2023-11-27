@@ -1,0 +1,13 @@
+body { font-family: 'Courier New', Courier, monospace }
+
+
+ body {background-color: rgb(191, 191, 179);}
+  p { font-weight:  100;}
+h1 { color: darkblue;}
+img { weight:4 height 3;}
+
+h1 { padding: 20px
+border: ;}
+
+P { text-align: right;}
+h2 {color: darkblue;}
